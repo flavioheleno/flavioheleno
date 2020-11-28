@@ -8,6 +8,4 @@
 
 ### Content
 
-#### 2020
-
-- 28/11 [Instalando o PHP 8 no macOS Catalina com brew e phpbrew](content/20201128-instalando-o-php-8-no-macos-com-brew-e-phpbrew.md)
+- 2020-11-28 [Instalando o PHP 8 no macOS Catalina com brew e phpbrew](content/20201128-instalando-o-php-8-no-macos-com-brew-e-phpbrew.md)
