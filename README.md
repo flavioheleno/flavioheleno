@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [@libercapital](https://github.com/libercapital)
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org)
-- 💬 Ask me about [PHP](https://php.net)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/flavioheleno/) or [Twitter](https://twitter.com/flavioheleno)
-- ⚡ Fun fact: I love learning new things
+- 💼 I'm currently an IT Specialist at [Beta Learning](https://betalearning.com.br)
+- 🔭 My goal for 2021 is to become a PHP core contributor
+- 💬 Ask me about [PHP](https://php.net) or [Docker](https://docker.com)
+- 📨 How to reach me: [LinkedIn](https://www.linkedin.com/in/flavioheleno/), [Twitter](https://twitter.com/flavioheleno) or [Instagram](https://instagram.com/flavioheleno)
+- 🐶 I'm the father of a Golden Retriever called [Merlot](https://instagram.com/merlot.golden) and a Samoyed called [Brie](https://instagram.com/brie.samoyed)
+- ⚡ Fun fact: my university nickname - Homer - is still stuck with me to this day
 
 ### Content
 
