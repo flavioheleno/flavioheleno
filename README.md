@@ -10,3 +10,8 @@
 ### Content
 
 - 2020-11-28 [Instalando o PHP 8 no macOS Catalina com brew e phpbrew](content/20201128-instalando-o-php-8-no-macos-com-brew-e-phpbrew.md)
+
+### Links
+
+- [flavioheleno.com](https://flavioheleno.com) - My social profile links
+- [php-ext.com](https://php-ext.com) - A PHP Extension Compatibility Monitoring Portal
