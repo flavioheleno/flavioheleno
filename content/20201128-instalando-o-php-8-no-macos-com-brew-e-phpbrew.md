@@ -205,5 +205,15 @@ $ phpbrew ext install pdo_pgsql -- --with-pdo-pgsql=/usr/local/opt/libpq
 
 2. Extensões disponíveis via github
 
+É possível instalar extensões que não são distribuídas através do [PECL](https://pecl.php.net) ou até mesmo forçar a 
+instalação da versão instável (a partir da branch master ou main) usando o brew, para isso basta usar o prefixo 
+`github:` seguido de `usuário/projeto`.
+Para exemplificar, vamos instalar a extensão [Fiber](https://github.com/amphp/ext-fiber), sendo apenas necessário 
+executar o comando a seguir:
+
+```bash
+$ phpbrew ext install github:amphp/ext-fiber
+```
+
 Mais informações sobre o comando `phpbrew ext` podem ser encontradas na
 [documentação oficial](https://github.com/phpbrew/phpbrew/wiki/Extension-Installer).
