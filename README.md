@@ -10,7 +10,7 @@
 ### Projects
 
 - [Beluga PHP](https://github.com/beluga-php): A Docker client in PHP
-- [Embedded PHP](https://github.com/embedded-php): Libraries and tools for running PHP in embedded systems
+- [Embedded PHP](https://github.com/embedded-php): Libraries and extensions for handling hardware in PHP on Linux-based single-board computers
 - [PECM](https://github.com/pecm): PHP Extension Compatibility Monitor
 
 ### Content
