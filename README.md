@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💼  I'm currently an IT Specialist at [Beta Learning](https://betalearning.com.br)
+- 💼  Founder at [Kahu.app](https://kahu.app)
 - 🔭  One of my career goals is to become a PHP Core Contributor
 - 💬  Ask me about [PHP](https://php.net) or [Docker](https://docker.com)
 - 📨  How to reach me: [LinkedIn](https://www.linkedin.com/in/flavioheleno/), [Twitter](https://twitter.com/flavioheleno) or [Instagram](https://instagram.com/flavioheleno)
