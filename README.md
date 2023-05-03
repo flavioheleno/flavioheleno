@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 💼  Founder at [Kahu.app](https://kahu.app)
-- 🔭  One of my career goals is to become a PHP Core Contributor
 - 💬  Ask me about [PHP](https://php.net) or [Docker](https://docker.com)
 - 📨  How to reach me: [LinkedIn](https://www.linkedin.com/in/flavioheleno/), [Twitter](https://twitter.com/flavioheleno) or [Instagram](https://instagram.com/flavioheleno)
 - 🐶  I'm the father of a Golden Retriever called [Merlot](https://instagram.com/merlot.golden) and a Samoyed called [Brie](https://instagram.com/brie.samoyed)
